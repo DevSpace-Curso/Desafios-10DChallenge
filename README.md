@@ -2,29 +2,14 @@
 
 ### 📑Explicação
 
-**Desafio 10D Challenge** 
-o Desafio 10D Challenge foi criado para a comunidade do DevSpace, que contém varios desafios para a área de programação.
-o Intuito do curso e focado para Apps Mobile, Lógica de Programação, Algoritmos e entre outros.
+**🪐 Desafio 10D Challenge** <br>
+
+Foi criado para a comunidade do DevSpace, que contém varios desafios é conteúdos direcionados para área de programação.
+o Intuito do curso e focado no desenvolvimento de Apps Mobile, Lógica de Programação, Algoritmos e entre outros.
 
 <br>
 <br>
 
-## 🤝 Organização
-
-Comunidade :
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://user-images.githubusercontent.com/97356148/213753621-a9a01471-dc50-4657-9919-2667b76fc785.png" width="100px;" alt="Foto Devspace comunidade"/><br>
-        <sub>
-          <b>DevSpace</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 # Introdução a Linguagem Kotlin
 
@@ -105,13 +90,34 @@ printIn("Faixa etaria de Adolescente")
 ```
 
 Código mais limpo:
+```kotlin
 
 val idade: Int = 14
 
 if(idade < 12){
 printIn("Faixa etaria Criança")
-}else if(idade >= 12 && idade <= 17) {
+
+} else if(idade >= 12 && idade <= 17) {
 printIn("Faixa etaria de Adolescente")
-}else if(idade >= 18){
+
+} else if(idade >= 18){
 printIn("Faixa etaria Adulto")
 }
+```
+## 🤝 Organização
+
+Comunidade :
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/97356148/213753621-a9a01471-dc50-4657-9919-2667b76fc785.png" width="100px;" alt="Foto Devspace comunidade"/><br>
+        <sub>
+          <b>DevSpace</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
