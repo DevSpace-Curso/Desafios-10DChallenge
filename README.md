@@ -1,3 +1,31 @@
+##  10D Challenge
+
+### 📑Explicação
+
+**Desafio 10D Challenge** 
+o Desafio 10D Challenge foi criado para a comunidade do DevSpace, que contém varios desafios para a área de programação.
+o Intuito do curso e focado para Apps Mobile, Lógica de Programação, Algoritmos e entre outros.
+
+<br>
+<br>
+
+## 🤝 Organização
+
+Comunidade :
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/97356148/213753621-a9a01471-dc50-4657-9919-2667b76fc785.png" width="100px;" alt="Foto Devspace comunidade"/><br>
+        <sub>
+          <b>DevSpace</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 # Introdução a Linguagem Kotlin
 
 > 🐙 Variáveis:
